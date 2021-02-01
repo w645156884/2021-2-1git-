@@ -2,3 +2,5 @@
 test1
 fan test
 5678
+fan test1
+fan test2
